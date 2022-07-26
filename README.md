@@ -1,6 +1,6 @@
 # Getting Started with Turf React App
 
-This project used Antd and Material UI for themeing. Application include the simple static layout8
+This project used Antd and Material UI for themeing. Application include the simple static layout
 
 ## Available Scripts
 
