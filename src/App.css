@@ -1,0 +1,47 @@
+.ant-form {
+  width: 80%;
+}
+#content {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-bottom: 30px;
+  height: 40vh;
+  overflow: auto;
+}
+
+.home-page {
+  display: flex;
+}
+.right-panel {
+  margin-left: 10px;
+}
+.main-menu-filters {
+  margin-right: 20px;
+}
+.main-page-content {
+  width: 660px;
+  height: 30rem;
+}
+.filter {
+  font-size: 10px;
+  font-weight: 700;
+}
+.main-menu-filter-heading {
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 0px;
+  margin-top: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+  .home-page {
+    display: flex;
+    flex-direction: column;
+  }
+  .right-panel {
+    margin-top: 16px;
+  }
+  .main-menu-filters {
+    margin-bottom: 16px;
+  }
+}
